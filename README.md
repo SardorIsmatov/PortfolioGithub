@@ -1,4 +1,4 @@
-Data Analytics Projects
+# Data Analytics Projects
 This repository contains two data analytics projects that demonstrate my skills in SQL, Python, Power BI, and database design.
 
 Projects:
